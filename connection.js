@@ -1,6 +1,6 @@
 var mysql = require("mysql");
 var con = mysql.createConnection({
-  host: "localhost",
+  host: "https://modeonx.netlify.app/",
   user: "root",
   password: "",
   database: "school",
